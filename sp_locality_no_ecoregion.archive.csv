@@ -1,0 +1,177 @@
+Species,L1CODE,pts_no,total_no,perc,L1NAME
+Crypturellus atrocapillus,18,155,280,0.554,central andes
+Crypturellus atrocapillus,20,125,280,0.446,amazonian-orinocan lowland
+Crypturellus bartletti,17,3,323,0.009,northern andes
+Crypturellus bartletti,18,29,323,0.09,central andes
+Crypturellus bartletti,20,291,323,0.901,amazonian-orinocan lowland
+Crypturellus berlepschi,17,95,104,0.913,northern andes
+Crypturellus berlepschi,NA,9,104,0.087,NA
+Crypturellus boucardi,13,37,967,0.038,temperate sierras
+Crypturellus boucardi,14,5,967,0.005,tropical dry forests
+Crypturellus boucardi,15,915,967,0.946,tropical wet forests
+Crypturellus boucardi,NA,10,967,0.01,NA
+Crypturellus brevirostris,15,1,22,0.045,tropical wet forests
+Crypturellus brevirostris,20,19,22,0.864,amazonian-orinocan lowland
+Crypturellus brevirostris,21,2,22,0.091,eastern highlands
+Crypturellus casiquiare,20,13,13,1,amazonian-orinocan lowland
+Crypturellus cinereus,17,289,2817,0.103,northern andes
+Crypturellus cinereus,18,234,2817,0.083,central andes
+Crypturellus cinereus,20,2167,2817,0.769,amazonian-orinocan lowland
+Crypturellus cinereus,21,126,2817,0.045,eastern highlands
+Crypturellus cinereus,NA,1,2817,0,NA
+Crypturellus cinnamomeus,10,1,2588,0,north american deserts
+Crypturellus cinnamomeus,13,323,2588,0.125,temperate sierras
+Crypturellus cinnamomeus,14,237,2588,0.092,tropical dry forests
+Crypturellus cinnamomeus,15,1989,2588,0.769,tropical wet forests
+Crypturellus cinnamomeus,17,1,2588,0,northern andes
+Crypturellus cinnamomeus,20,1,2588,0,amazonian-orinocan lowland
+Crypturellus cinnamomeus,9,18,2588,0.007,great plains
+Crypturellus cinnamomeus,NA,18,2588,0.007,NA
+Crypturellus duidae,20,88,89,0.989,amazonian-orinocan lowland
+Crypturellus duidae,21,1,89,0.011,eastern highlands
+Crypturellus erythropus,17,132,254,0.52,northern andes
+Crypturellus erythropus,20,105,254,0.413,amazonian-orinocan lowland
+Crypturellus erythropus,21,14,254,0.055,eastern highlands
+Crypturellus erythropus,NA,3,254,0.012,NA
+Crypturellus kerriae,17,34,41,0.829,northern andes
+Crypturellus kerriae,NA,7,41,0.171,NA
+Crypturellus noctivagus,20,1,326,0.003,amazonian-orinocan lowland
+Crypturellus noctivagus,21,324,326,0.994,eastern highlands
+Crypturellus noctivagus,NA,1,326,0.003,NA
+Crypturellus obsoletus,17,60,2815,0.021,northern andes
+Crypturellus obsoletus,18,434,2815,0.154,central andes
+Crypturellus obsoletus,20,100,2815,0.036,amazonian-orinocan lowland
+Crypturellus obsoletus,21,2151,2815,0.764,eastern highlands
+Crypturellus obsoletus,22,5,2815,0.002,gran chaco
+Crypturellus obsoletus,23,53,2815,0.019,pampas
+Crypturellus obsoletus,NA,12,2815,0.004,NA
+Crypturellus parvirostris,18,21,2997,0.007,central andes
+Crypturellus parvirostris,20,366,2997,0.122,amazonian-orinocan lowland
+Crypturellus parvirostris,21,2472,2997,0.825,eastern highlands
+Crypturellus parvirostris,22,137,2997,0.046,gran chaco
+Crypturellus parvirostris,NA,1,2997,0,NA
+Crypturellus ptaritepui,21,10,10,1,eastern highlands
+Crypturellus soui,13,169,9413,0.018,temperate sierras
+Crypturellus soui,14,2,9413,0,tropical dry forests
+Crypturellus soui,15,2930,9413,0.311,tropical wet forests
+Crypturellus soui,17,3542,9413,0.376,northern andes
+Crypturellus soui,18,262,9413,0.028,central andes
+Crypturellus soui,20,1927,9413,0.205,amazonian-orinocan lowland
+Crypturellus soui,21,463,9413,0.049,eastern highlands
+Crypturellus soui,NA,118,9413,0.013,NA
+Crypturellus strigulosus,18,6,372,0.016,central andes
+Crypturellus strigulosus,20,341,372,0.917,amazonian-orinocan lowland
+Crypturellus strigulosus,21,25,372,0.067,eastern highlands
+Crypturellus tataupa,17,64,3570,0.018,northern andes
+Crypturellus tataupa,18,537,3570,0.15,central andes
+Crypturellus tataupa,20,159,3570,0.045,amazonian-orinocan lowland
+Crypturellus tataupa,21,1800,3570,0.504,eastern highlands
+Crypturellus tataupa,22,986,3570,0.276,gran chaco
+Crypturellus tataupa,23,21,3570,0.006,pampas
+Crypturellus tataupa,24,2,3570,0.001,monte-patagonian
+Crypturellus tataupa,NA,1,3570,0,NA
+Crypturellus transfasciatus,17,353,356,0.992,northern andes
+Crypturellus transfasciatus,NA,3,356,0.008,NA
+Crypturellus undulatus,17,155,4110,0.038,northern andes
+Crypturellus undulatus,18,156,4110,0.038,central andes
+Crypturellus undulatus,20,2347,4110,0.571,amazonian-orinocan lowland
+Crypturellus undulatus,21,1254,4110,0.305,eastern highlands
+Crypturellus undulatus,22,198,4110,0.048,gran chaco
+Crypturellus variegatus,17,6,1297,0.005,northern andes
+Crypturellus variegatus,18,32,1297,0.025,central andes
+Crypturellus variegatus,20,1075,1297,0.829,amazonian-orinocan lowland
+Crypturellus variegatus,21,182,1297,0.14,eastern highlands
+Crypturellus variegatus,NA,2,1297,0.002,NA
+Eudromia elegans,18,104,1620,0.064,central andes
+Eudromia elegans,19,57,1620,0.035,southern andes
+Eudromia elegans,22,296,1620,0.183,gran chaco
+Eudromia elegans,23,110,1620,0.068,pampas
+Eudromia elegans,24,998,1620,0.616,monte-patagonian
+Eudromia elegans,NA,55,1620,0.034,NA
+Eudromia formosa,18,3,115,0.026,central andes
+Eudromia formosa,22,112,115,0.974,gran chaco
+Nothocercus bonapartei,15,225,599,0.376,tropical wet forests
+Nothocercus bonapartei,17,372,599,0.621,northern andes
+Nothocercus bonapartei,20,1,599,0.002,amazonian-orinocan lowland
+Nothocercus bonapartei,NA,1,599,0.002,NA
+Nothocercus julius,17,474,491,0.965,northern andes
+Nothocercus julius,18,15,491,0.031,central andes
+Nothocercus julius,20,2,491,0.004,amazonian-orinocan lowland
+Nothocercus nigrocapillus,17,17,200,0.085,northern andes
+Nothocercus nigrocapillus,18,182,200,0.91,central andes
+Nothocercus nigrocapillus,21,1,200,0.005,eastern highlands
+Nothoprocta cinerascens,18,109,1451,0.075,central andes
+Nothoprocta cinerascens,21,1,1451,0.001,eastern highlands
+Nothoprocta cinerascens,22,1183,1451,0.815,gran chaco
+Nothoprocta cinerascens,23,93,1451,0.064,pampas
+Nothoprocta cinerascens,24,65,1451,0.045,monte-patagonian
+Nothoprocta curvirostris,17,125,179,0.698,northern andes
+Nothoprocta curvirostris,18,54,179,0.302,central andes
+Nothoprocta ornata,18,904,904,1,central andes
+Nothoprocta pentlandii,17,113,1280,0.088,northern andes
+Nothoprocta pentlandii,18,758,1280,0.592,central andes
+Nothoprocta pentlandii,20,1,1280,0.001,amazonian-orinocan lowland
+Nothoprocta pentlandii,22,391,1280,0.305,gran chaco
+Nothoprocta pentlandii,24,17,1280,0.013,monte-patagonian
+Nothoprocta perdicaria,18,267,1426,0.187,central andes
+Nothoprocta perdicaria,19,1142,1426,0.801,southern andes
+Nothoprocta perdicaria,24,1,1426,0.001,monte-patagonian
+Nothoprocta perdicaria,NA,16,1426,0.011,NA
+Nothoprocta taczanowskii,18,96,96,1,central andes
+Nothura boraquira,18,4,510,0.008,central andes
+Nothura boraquira,20,54,510,0.106,amazonian-orinocan lowland
+Nothura boraquira,21,362,510,0.71,eastern highlands
+Nothura boraquira,22,90,510,0.176,gran chaco
+Nothura chacoensis,22,9,9,1,gran chaco
+Nothura darwinii,18,180,469,0.384,central andes
+Nothura darwinii,20,1,469,0.002,amazonian-orinocan lowland
+Nothura darwinii,22,178,469,0.38,gran chaco
+Nothura darwinii,23,30,469,0.064,pampas
+Nothura darwinii,24,72,469,0.154,monte-patagonian
+Nothura darwinii,NA,8,469,0.017,NA
+Nothura maculosa,18,83,6715,0.012,central andes
+Nothura maculosa,20,2,6715,0,amazonian-orinocan lowland
+Nothura maculosa,21,1256,6715,0.187,eastern highlands
+Nothura maculosa,22,2093,6715,0.312,gran chaco
+Nothura maculosa,23,3165,6715,0.471,pampas
+Nothura maculosa,24,78,6715,0.012,monte-patagonian
+Nothura maculosa,NA,38,6715,0.006,NA
+Nothura minor,21,23,23,1,eastern highlands
+Rhynchotus maculicollis,18,237,248,0.956,central andes
+Rhynchotus maculicollis,20,2,248,0.008,amazonian-orinocan lowland
+Rhynchotus maculicollis,22,8,248,0.032,gran chaco
+Rhynchotus maculicollis,24,1,248,0.004,monte-patagonian
+Rhynchotus rufescens,18,18,4109,0.004,central andes
+Rhynchotus rufescens,20,165,4109,0.04,amazonian-orinocan lowland
+Rhynchotus rufescens,21,1663,4109,0.405,eastern highlands
+Rhynchotus rufescens,22,973,4109,0.237,gran chaco
+Rhynchotus rufescens,23,1279,4109,0.311,pampas
+Rhynchotus rufescens,24,2,4109,0,monte-patagonian
+Rhynchotus rufescens,NA,9,4109,0.002,NA
+Taoniscus nanus,21,31,31,1,eastern highlands
+Tinamotis ingoufi,18,1,222,0.005,central andes
+Tinamotis ingoufi,19,25,222,0.113,southern andes
+Tinamotis ingoufi,24,190,222,0.856,monte-patagonian
+Tinamotis ingoufi,NA,6,222,0.027,NA
+Tinamotis pentlandii,18,444,444,1,central andes
+Tinamus guttatus,17,12,754,0.016,northern andes
+Tinamus guttatus,18,45,754,0.06,central andes
+Tinamus guttatus,20,689,754,0.914,amazonian-orinocan lowland
+Tinamus guttatus,21,8,754,0.011,eastern highlands
+Tinamus major,13,67,5225,0.013,temperate sierras
+Tinamus major,14,4,5225,0.001,tropical dry forests
+Tinamus major,15,2680,5225,0.513,tropical wet forests
+Tinamus major,17,801,5225,0.153,northern andes
+Tinamus major,18,101,5225,0.019,central andes
+Tinamus major,20,1372,5225,0.263,amazonian-orinocan lowland
+Tinamus major,21,96,5225,0.018,eastern highlands
+Tinamus major,NA,104,5225,0.02,NA
+Tinamus osgoodi,17,50,80,0.625,northern andes
+Tinamus osgoodi,18,30,80,0.375,central andes
+Tinamus solitarius,21,596,600,0.993,eastern highlands
+Tinamus solitarius,22,3,600,0.005,gran chaco
+Tinamus solitarius,NA,1,600,0.002,NA
+Tinamus tao,17,163,733,0.222,northern andes
+Tinamus tao,18,179,733,0.244,central andes
+Tinamus tao,20,359,733,0.49,amazonian-orinocan lowland
+Tinamus tao,21,32,733,0.044,eastern highlands
