@@ -1,0 +1,39 @@
+,Photo.file.ID,museumID,collection.year,collection.month,collection.day,species,location,egg.ID,R,G,B,mus.egg.id,pc1,pc2
+16,AY4A6018,2200,1934,4,12,Crypturellus_undulatus,Paraguay; Horqueta,1,244,218,186,2200.1,-2.823667288,-0.29429939
+17,AY4A6018,2200,1934,4,12,Crypturellus_undulatus,Paraguay; Horqueta,2,238,217,191,2200.2,-2.793548765,-0.118268416
+18,AY4A6018,2200,1934,4,12,Crypturellus_undulatus,Paraguay; Horqueta,3,236,216,192,2200.3,-2.766558668,-0.070365856
+40,AY4A6240,2887,NA,NA,NA,Crypturellus_undulatus,Colombia; Panguana,1,195,178,149,2887.1,-1.188867682,-0.043336847
+41,AY4A6240,2887,NA,NA,NA,Crypturellus_undulatus,Colombia; Panguana,2,167,135,103,2887.2,0.316837188,-0.29435579
+53,AY4A6255,2472,1928,12,NA,Crypturellus_undulatus,Bolivia; Santa Cruz; Buena Vista,2,209,188,157,2472.2,-1.605234541,-0.154827742
+54,AY4A6255,2472,1928,12,NA,Crypturellus_undulatus,Bolivia; Santa Cruz; Buena Vista,3,216,198,170,2472.3,-1.990933569,-0.071317598
+55,AY4A6261,2473,1937,1,NA,Crypturellus_undulatus,Bolivia; Santa Cruz; Buena Vista,1,204,196,174,2473.1,-1.855117261,0.193073302
+56,AY4A6261,2473,1937,1,NA,Crypturellus_undulatus,Bolivia; Santa Cruz; Buena Vista,2,198,185,158,2473.2,-1.432177911,0.046757568
+57,AY4A6261,2473,1937,1,NA,Crypturellus_undulatus,Bolivia; Santa Cruz; Buena Vista,3,209,197,165,2473.3,-1.821470958,-0.023984774
+58,AY4A6261,2473,1937,1,NA,Crypturellus_undulatus,Bolivia; Santa Cruz; Buena Vista,4,217,197,166,2473.4,-1.941096703,-0.148735029
+59,AY4A6264,635,1898,6,NA,Crypturellus_undulatus,"Mexico; Yucatan; Buenavista, Xbac",1,239,222,194,635.1,-2.90886375,-0.084104133
+27,AY4A6023,2152,1923,11,12,Eudromia_elegans,Argentina; Chubut; Rio Chico,1,215,202,148,2152.1,-1.751748319,-0.369158622
+28,AY4A6023,2152,1923,11,12,Eudromia_elegans,Argentina; Chubut; Rio Chico,2,207,196,143,2152.2,-1.504760354,-0.312154558
+29,AY4A6023,2152,1923,11,12,Eudromia_elegans,Argentina; Chubut; Rio Chico,3,183,187,125,2152.3,-0.841470897,-0.171029648
+30,AY4A6023,2152,1923,11,12,Eudromia_elegans,Argentina; Chubut; Rio Chico,4,202,194,141,2152.4,-1.387015335,-0.257376539
+31,AY4A6030,2471,1927,12,NA,Nothura_boraquira,Bolivia; Santa Cruz; Buena Vista,1,129,102,70,2471.1,1.664280082,-0.165720135
+32,AY4A6030,2471,1927,12,NA,Nothura_boraquira,Bolivia; Santa Cruz; Buena Vista,2,150,126,88,2471.2,0.848686463,-0.231337192
+33,AY4A6030,2471,1927,12,NA,Nothura_boraquira,Bolivia; Santa Cruz; Buena Vista,3,133,106,74,2471.3,1.509061943,-0.170754601
+34,AY4A6030,2471,1927,12,NA,Nothura_boraquira,Bolivia; Santa Cruz; Buena Vista,4,133,110,80,2471.4,1.382165318,-0.076884336
+61,AY4A6268,2154,1926,10,NA,Nothura_boraquira,"Uruguay; Maldonado; Estansia ""El Corto""",1,86,69,55,2154.1,2.851878439,0.313029971
+63,AY4A6268,2467,1926,1,12,Nothura_boraquira,Bolivia; Santa Cruz; Buena Vista,2,92,69,47,2467.2,2.872378889,0.09161367
+64,AY4A6268,2467,1926,1,12,Nothura_boraquira,Bolivia; Santa Cruz; Buena Vista,3,82,66,49,2467.3,3.019460325,0.290390559
+65,AY4A6276,2470,1926,1,NA,Nothura_boraquira,Bolivia; Santa Cruz; Buena Vista,NA,87,76,61,2470,2.673115141,0.394129387
+66,AY4A6276,2470,1926,1,NA,Nothura_boraquira,Bolivia; Santa Cruz; Buena Vista,NA,99,86,69,2470,2.283505582,0.317479015
+67,AY4A6276,2471,1927,12,NA,Nothura_boraquira,Bolivia; Santa Cruz; Buena Vista,1,96,74,50,2471.1,2.716927953,0.073517167
+68,AY4A6276,2471,1927,12,NA,Nothura_boraquira,Bolivia; Santa Cruz; Buena Vista,2,116,97,70,2471.2,1.902349238,0.05299425
+69,AY4A6276,2471,1927,12,NA,Nothura_boraquira,Bolivia; Santa Cruz; Buena Vista,3,105,82,56,2471.3,2.418306113,0.016804291
+70,AY4A6276,2471,1927,12,NA,Nothura_boraquira,Bolivia; Santa Cruz; Buena Vista,4,104,84,61,2471.4,2.343043363,0.110383367
+71,AY4A6276,2471,1927,12,NA,Nothura_boraquira,Bolivia; Santa Cruz; Buena Vista,5,112,88,61,2471.5,2.184696799,-0.022779512
+72,AY4A6030,2471,1927,12,NA,Nothura_boraquira,Bolivia; Santa Cruz; Buena Vista,1,129,102,70,2471.1,1.664280082,-0.165720135
+73,AY4A6030,2471,1927,12,NA,Nothura_boraquira,Bolivia; Santa Cruz; Buena Vista,2,150,126,88,2471.2,0.848686463,-0.231337192
+74,AY4A6030,2471,1927,12,NA,Nothura_boraquira,Bolivia; Santa Cruz; Buena Vista,3,133,106,74,2471.3,1.509061943,-0.170754601
+75,AY4A6030,2471,1927,12,NA,Nothura_boraquira,Bolivia; Santa Cruz; Buena Vista,4,133,110,80,2471.4,1.382165318,-0.076884336
+1,AY4A1610,2197,1935,1&6,NA,Tinamus_major,Panama; Darien; Port Obaldia,1,174,188,180,2197.1,-1.426702294,0.790953775
+2,AY4A1610,2197,1935,1&6,NA,Tinamus_major,Panama; Darien; Port Obaldia,2,162,185,181,2197.2,-1.240267014,1.009959348
+3,AY4A1610,2197,1935,1&6,NA,Tinamus_major,Panama; Darien; Port Obaldia,3,179,196,188,2197.3,-1.69700262,0.833145629
+4,AY4A1610,2197,1935,1&6,NA,Tinamus_major,Panama; Darien; Port Obaldia,4,174,192,185,2197.4,-1.541002375,0.870212198
