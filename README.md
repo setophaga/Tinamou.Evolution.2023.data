@@ -21,7 +21,8 @@ tree_onezoom_timescaled.tre
 6, Hackett trees N=500
 Hackett.vert.tree-pruner-a0b1eb9c-d55f-416e-98c9-1ada25751948.zip
 
-Reference: \
+Reference: 
+
 Bertelli, S., and P. L. Tubaro. 2002. Body mass and habitat correlates of song structure in a primitive group of birds. Biol. J. Linn. Soc. 77:423–430. \
 
 Global Biodiversity Information. n.d. GBIF Occurrence Download. 
