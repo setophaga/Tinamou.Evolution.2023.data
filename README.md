@@ -1,6 +1,6 @@
 # Tinamou.Evolution.2023.data
-Data archiving for Li Q., Chen D., Wang S. 2023. Character displacement of egg colors during tinamou speciation. Evolution. 
-Nest egg color data was acquired from Schlapfer (2018), song and habitat data was acquired from Bertelli & Turbaro (2002). 
+Data archiving for Li Q., Chen D., Wang S. 2023. Character displacement of egg colors during tinamou speciation. Evolution. \
+Nest egg color data was acquired from Schlapfer (2018), song and habitat data was acquired from Bertelli & Turbaro (2002). \
 Ecoregion partitioninng data was acquired from Global Biodiversity Information. 
 
 1, species, Egg color, song \
