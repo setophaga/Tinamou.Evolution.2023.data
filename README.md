@@ -23,7 +23,10 @@ Hackett.vert.tree-pruner-a0b1eb9c-d55f-416e-98c9-1ada25751948.zip
 
 Reference: \
 Bertelli, S., and P. L. Tubaro. 2002. Body mass and habitat correlates of song structure in a primitive group of birds. Biol. J. Linn. Soc. 77:423–430. \
+
 Global Biodiversity Information. n.d. GBIF Occurrence Download. \
-Schläpfer, K. 2018. Some Facinating Avian Eggs. Orlando, Florida, United States. \
+
 Jetz, W., G. H. Thomas, J. B. Joy, K. Hartmann, and Mooers. A. 2012. The global diversity of birds in space and time. Nature 491:444–448.\
-http://vertlife.org/phylosubsets
+http://vertlife.org/phylosubsets \
+
+Schläpfer, K. 2018. Some Facinating Avian Eggs. Orlando, Florida, United States. \
