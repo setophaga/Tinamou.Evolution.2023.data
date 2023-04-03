@@ -15,6 +15,11 @@ tinamou_song.habitat.archive.csv
 4, egg color from Field Museum egg collection \
 tinamou.eggcolor.fieldmuseum.RGB.archive.csv
 
+5, One zoom tree Tinamidae
+tree_onezoom_timescaled.tre
+
+6, 
+
 Reference: 
 Bertelli, S., and P. L. Tubaro. 2002. Body mass and habitat correlates of song structure in a primitive group of birds. Biol. J. Linn. Soc. 77:423–430.
 Global Biodiversity Information. n.d. GBIF Occurrence Download.
